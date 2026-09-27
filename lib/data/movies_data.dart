@@ -33,7 +33,7 @@ final List<Movie> sampleMovies = [
   ),
   Movie(
     title: 'Hollow Man',
-    posterPath: 'assets/images/hallow_man.jpg',
+    posterPath: 'assets/images/hollow_man.jpg',
     cast: ['kevin Bacon', 'Elisabeth Shue', 'Josh Brolin'],
     synopsis: 'A brilliant scientists discovery renders him invisible, but transforms him into an omnipotent, dangerous megalomaniac.',
   ),
