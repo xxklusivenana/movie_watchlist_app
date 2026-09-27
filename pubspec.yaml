@@ -64,6 +64,11 @@ flutter:
   assets:
     - assets/images/         # includes all files in folder
     - assets/images/inception.jpg 
+    - assets/images/buffy.jpg
+    - assets/images/hollow_man.jpg
+    - assets/images/jawbreaker.jpg
+    - assets/images/jumanji.jpg
+    - assets/images/mummy.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
